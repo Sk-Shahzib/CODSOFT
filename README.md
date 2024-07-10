@@ -6,3 +6,4 @@ Java Projects Tasks of CODSOFT Internship
 ## Tasks
 
 - **Adding a Number Guessing game - Task 1**
+- **Adding a Student Grade Calculator - Task 2**
