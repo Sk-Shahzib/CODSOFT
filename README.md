@@ -1,4 +1,3 @@
-
 # CODSOFT_Jun-Jul
 
 Java Projects Tasks of CODSOFT Internship
@@ -7,3 +6,4 @@ Java Projects Tasks of CODSOFT Internship
 
 - **Adding a Number Guessing game - Task 1**
 - **Adding a Student Grade Calculator - Task 2**
+- **Adding a ATM Interface AMT Manager - Task 3**
